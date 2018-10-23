@@ -1,0 +1,21 @@
+body {
+    margin: 0 30%;
+}
+
+header {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.lefting {
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.right {
+    text-align: right;
+}
